@@ -19,7 +19,6 @@ import InstaShayna from '@/components/InstaShayna.vue'
 import PartnerLogoShayna from '@/components/PartnerLogoShayna.vue'
 import FooterShayna from '@/components/FooterShayna.vue'
 
-
 export default {
   name: 'Home',
   components: {
@@ -29,7 +28,6 @@ export default {
     InstaShayna,
     PartnerLogoShayna,
     FooterShayna
-    //HelloWorld
   }
 }
 </script>
